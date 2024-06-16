@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prog4</string>
+    <string name="wallpaper_application">Wallpaper Application</string>
+    <string name="click_here_to_change_wallpaper">Click here to change wallpaper</string>
+</resources>
